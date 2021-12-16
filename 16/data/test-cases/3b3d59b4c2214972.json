@@ -1,0 +1,180 @@
+{
+  "uid" : "3b3d59b4c2214972",
+  "name" : "ScenarioContext demo",
+  "fullName" : "Demo: ScenarioContext demo",
+  "historyId" : "ca1735ae0a1df3a2a41cd573c48e40ca",
+  "time" : {
+    "start" : 1639680700084,
+    "stop" : 1639680708845,
+    "duration" : 8761
+  },
+  "status" : "passed",
+  "flaky" : false,
+  "newFailed" : false,
+  "beforeStages" : [ ],
+  "testStage" : {
+    "status" : "passed",
+    "steps" : [ {
+      "name" : "When  I store '3' as 'value1'",
+      "time" : {
+        "start" : 1639680700097,
+        "stop" : 1639680700111,
+        "duration" : 14
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I store '4' as 'value2'",
+      "time" : {
+        "start" : 1639680700132,
+        "stop" : 1639680700133,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "And  I add 'value1' to 'value2' and store it as 'value3'",
+      "time" : {
+        "start" : 1639680700133,
+        "stop" : 1639680700133,
+        "duration" : 0
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    }, {
+      "name" : "Then  'value3' should be equal to '7'",
+      "time" : {
+        "start" : 1639680700133,
+        "stop" : 1639680700134,
+        "duration" : 1
+      },
+      "status" : "passed",
+      "steps" : [ ],
+      "attachments" : [ ],
+      "parameters" : [ ],
+      "stepsCount" : 0,
+      "attachmentsCount" : 0,
+      "shouldDisplayMessage" : false,
+      "hasContent" : false
+    } ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 4,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  },
+  "afterStages" : [ {
+    "name" : "aquality.selenium.template.cucumber.hooks.ScreenshotHooks.takeScreenshot(io.cucumber.java.Scenario)",
+    "time" : {
+      "start" : 1639680700134,
+      "stop" : 1639680708770,
+      "duration" : 8636
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ {
+      "uid" : "15f6908919b95358",
+      "name" : "Screenshot",
+      "source" : "15f6908919b95358.jpg",
+      "type" : "image/jpeg",
+      "size" : 33267
+    } ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 1,
+    "shouldDisplayMessage" : false,
+    "hasContent" : true
+  }, {
+    "name" : "aquality.selenium.template.cucumber.hooks.BrowserHooks.closeBrowser()",
+    "time" : {
+      "start" : 1639680708770,
+      "stop" : 1639680708843,
+      "duration" : 73
+    },
+    "status" : "passed",
+    "steps" : [ ],
+    "attachments" : [ ],
+    "parameters" : [ ],
+    "stepsCount" : 0,
+    "attachmentsCount" : 0,
+    "shouldDisplayMessage" : false,
+    "hasContent" : false
+  } ],
+  "labels" : [ {
+    "name" : "tag",
+    "value" : "demo"
+  }, {
+    "name" : "host",
+    "value" : "fv-az124-519"
+  }, {
+    "name" : "thread",
+    "value" : "2777@fv-az124-519.TestNG-PoolService-2(15)"
+  }, {
+    "name" : "feature",
+    "value" : "Demo"
+  }, {
+    "name" : "story",
+    "value" : "ScenarioContext demo"
+  }, {
+    "name" : "suite",
+    "value" : "Demo"
+  }, {
+    "name" : "testClass",
+    "value" : "ScenarioContext demo"
+  }, {
+    "name" : "framework",
+    "value" : "cucumber4jvm"
+  }, {
+    "name" : "language",
+    "value" : "java"
+  }, {
+    "name" : "gherkin_uri",
+    "value" : "file:///home/runner/work/aquality-selenium-java-template/aquality-selenium-java-template/aquality-selenium-template-cucumber/src/test/java/aquality/selenium/template/cucumber/features/Demo.feature"
+  }, {
+    "name" : "package",
+    "value" : "src.test.java.aquality.selenium.template.cucumber.features.Demo_feature.Demo"
+  }, {
+    "name" : "resultFormat",
+    "value" : "allure2"
+  } ],
+  "parameters" : [ {
+    "name" : "result",
+    "value" : "7"
+  }, {
+    "name" : "value1",
+    "value" : "3"
+  }, {
+    "name" : "value2",
+    "value" : "4"
+  } ],
+  "links" : [ ],
+  "hidden" : false,
+  "retry" : false,
+  "extra" : {
+    "severity" : "normal",
+    "retries" : [ ],
+    "categories" : [ ],
+    "tags" : [ "demo" ]
+  },
+  "source" : "3b3d59b4c2214972.json",
+  "parameterValues" : [ "7", "3", "4" ]
+}
