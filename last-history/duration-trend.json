@@ -1,17 +1,3 @@
 [ {
-  "buildOrder" : 13,
-  "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/13/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 10383
-  }
-}, {
-  "buildOrder" : 12,
-  "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/12/",
-  "reportName" : "Allure Report with history",
-  "data" : {
-    "duration" : 14885
-  }
-}, {
   "data" : { }
 } ]
