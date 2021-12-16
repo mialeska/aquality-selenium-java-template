@@ -1,0 +1,10 @@
+[ {
+  "name" : "GitHub Actions",
+  "type" : "github",
+  "url" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber",
+  "buildOrder" : 17,
+  "buildName" : "GitHub Actions Run #1588990862",
+  "buildUrl" : "https://github.com/mialeska/aquality-selenium-java-template/actions/runs/1588990862",
+  "reportName" : "Allure Report with history",
+  "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/17/"
+} ]

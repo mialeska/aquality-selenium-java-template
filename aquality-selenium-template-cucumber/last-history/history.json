@@ -1,0 +1,62 @@
+{
+  "ca1735ae0a1df3a2a41cd573c48e40ca" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "a00af92fffb7685b",
+      "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/17//#testresult/a00af92fffb7685b",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090592,
+        "stop" : 1639681101666,
+        "duration" : 11074
+      }
+    } ]
+  },
+  "faafc1bb2ffd47dfca928b8a3f4aa363" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "62b9fd2752f49a51",
+      "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/17//#testresult/62b9fd2752f49a51",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090597,
+        "stop" : 1639681101911,
+        "duration" : 11314
+      }
+    } ]
+  },
+  "ead2b6b5f5b47efc7259752865d16b5" : {
+    "statistic" : {
+      "failed" : 0,
+      "broken" : 0,
+      "skipped" : 0,
+      "passed" : 1,
+      "unknown" : 0,
+      "total" : 1
+    },
+    "items" : [ {
+      "uid" : "c5c7ce89e5a2f459",
+      "reportUrl" : "https://mialeska.github.io/aquality-selenium-java-template/aquality-selenium-template-cucumber/17//#testresult/c5c7ce89e5a2f459",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090593,
+        "stop" : 1639681110398,
+        "duration" : 19805
+      }
+    } ]
+  }
+}

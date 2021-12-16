@@ -1,0 +1,48 @@
+{
+  "uid" : "83edc06c07f9ae9e47eb6dd1b683e4e2",
+  "children" : [ {
+    "name" : "src.test.java.aquality.selenium.template.cucumber.features.Demo_feature.Demo",
+    "children" : [ {
+      "name" : "ScenarioContext demo",
+      "uid" : "a00af92fffb7685b",
+      "parentUid" : "dc9f389762ec74c56c3280a32b06441d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090592,
+        "stop" : 1639681101666,
+        "duration" : 11074
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "7", "3", "4" ]
+    }, {
+      "name" : "Empty email validation is working on Contact Us page",
+      "uid" : "c5c7ce89e5a2f459",
+      "parentUid" : "dc9f389762ec74c56c3280a32b06441d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090593,
+        "stop" : 1639681110398,
+        "duration" : 19805
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ ]
+    }, {
+      "name" : "ScenarioContext demo",
+      "uid" : "62b9fd2752f49a51",
+      "parentUid" : "dc9f389762ec74c56c3280a32b06441d",
+      "status" : "passed",
+      "time" : {
+        "start" : 1639681090597,
+        "stop" : 1639681101911,
+        "duration" : 11314
+      },
+      "flaky" : false,
+      "newFailed" : false,
+      "parameters" : [ "5", "2", "3" ]
+    } ],
+    "uid" : "src.test.java.aquality.selenium.template.cucumber.features.Demo_feature.Demo"
+  } ],
+  "name" : "packages"
+}
